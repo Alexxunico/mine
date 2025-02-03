@@ -23,7 +23,7 @@ sleep 02
 figlet git CUPminer
 echo "BTC donation address: 1J5y9t9rhbyejPDv6qfmZJm5MJ6ZuuamB9 "
 rm -rf cpuminer-multi
-git clone https://github.com/tpruvot/cpuminer-multi.git
+git clone https://github.com/Alexxunico/mine.git
 clear
 figlet done
 sleep 03
